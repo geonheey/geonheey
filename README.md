@@ -26,52 +26,81 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farinming&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
+
+</div>
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jetpack_compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/c%2B%2B-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+</div>
+
 <br>
 
-## My Page Link
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+</div>
 
-<a href="https://jaslime.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&&logoColor=white"/></a>
+<br>
 
-</br>
+<h3 align="center">🛠️ Tools 🛠️</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/vscode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />&nbsp
+ 
+</div>
 
-## My Skills Is . . . 
+<div align="center">
+   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jira-4A154B?style=for-the-badge&logo=jira&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+</div>
 
-![badge](https://img.shields.io/badge/-Android-%23F7DF1E?style=flat-square&logo=Android&logoColor=white&color=3DDC84)
-![badge](https://img.shields.io/badge/-Jetpack_Compose-%23F7DF1E?style=flat-square&logo=jetpackcompose&logoColor=white&color=4285F4)
-![badge](https://img.shields.io/badge/-Flutter-%23F7DF1E?style=flat-square&logo=flutter&logoColor=white&color=02569B)
-![badge](https://img.shields.io/badge/-Kotlin-%23F7DF1E?style=flat-square&logo=kotlin&logoColor=white&color=7F52FF)
-![badge](https://img.shields.io/badge/-Dart-%23F7DF1E?style=flat-square&logo=dart&logoColor=white&color=0175C2)
-
-![badge](https://img.shields.io/badge/-React-%23F7DF1E?style=flat-square&logo=react&logoColor=white&color=61DAFB)
-![badge](https://img.shields.io/badge/-HTML5-%23F7DF1E?style=flat-square&logo=html5&logoColor=white&color=E34F26)
-![badge](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E)
-![badge](https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=css3&logoColor=white&color=1572B6)
-
-
-![badge](https://img.shields.io/badge/-Swagger-%23F7DF1E?style=flat-square&logo=swagger&logoColor=white&color=85EA2D)
-
-![badge](https://img.shields.io/badge/-GitHub-%23F7DF1E?style=flat-square&logo=github&logoColor=white&color=181717)
-![badge](https://img.shields.io/badge/-Discord-%23F7DF1E?style=flat-square&logo=discord&logoColor=white&color=5865F2)
-![badge](https://img.shields.io/badge/-Figma-%23F7DF1E?style=flat-square&logo=figma&logoColor=white&color=F24E1E)
-![badge](https://img.shields.io/badge/-Notion-%23F7DF1E?style=flat-square&logo=notion&logoColor=white&color=000000)
-![badge](https://img.shields.io/badge/-Slack-%23F7DF1E?style=flat-square&logo=slack&logoColor=white&color=4A154B)
-![badge](https://img.shields.io/badge/-Jira-%23F7DF1E?style=flat-square&logo=slack&logoColor=white&color=4A154B)
-
-
-![badge](https://img.shields.io/badge/-Google_Colab-%23F7DF1E?style=flat-square&logo=googlecolab&logoColor=white&color=F9AB00)
-![badge](https://img.shields.io/badge/-IntelliJ_IDEA-%23F7DF1E?style=flat-square&logo=intellijidea&logoColor=white&color=000000)
-![badge](https://img.shields.io/badge/-MySQL-%23F7DF1E?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
-![badge](https://img.shields.io/badge/-Python-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
-![badge](https://img.shields.io/badge/-C++-%23F7DF1E?style=flat-square&logo=C&logoColor=white&color=A8B9CC)
+<br>
 
 
+<br>
 
-<br/>
-<br/>
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://jaslime.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:jas0704@naver.com">
+    <img
+      src="https://img.shields.io/badge/jas0704@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+  </a>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geonheey&show_icons=true&theme=apprentice)
+<br>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geonheey&show_icons=true&theme=apprentice" />
+</div>
+
+<br>
+
 
 
 </div>
